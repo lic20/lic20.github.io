@@ -10,7 +10,7 @@
 No.
 There is a safety shut off just in case of emergency. 
 
-**Can I shower with it?**
+**2.Can I shower with it?**
 No, this cast is not water proof and you need a plastic protection over it when taking a shower.
 
 **3.Are there any food or nutrients that can help me heal quicker?**
