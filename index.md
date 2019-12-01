@@ -4,6 +4,10 @@
 
 *Our Smart Cast is developed for improving the process of healing a broken bone, by controlling the healing process and by improving patient comfort.*
 
+## Important Notice
+Please seek for doctor's advice before using this device. 
+Before using any functions on the application, rememeber to turn on the bluetooth connection.
+
 ## Frequently Asked Questions
 
 **1.Will the cast hurt me?**
