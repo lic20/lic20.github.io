@@ -1,4 +1,4 @@
-## Welcome to Smart Cast Help and Support
+# Welcome to Smart Cast Help and Support
 
 *This is the Help and Support Page of the Smart Cast.* 
 
@@ -8,7 +8,7 @@
 Please seek for doctor's advice before using this device. 
 Before using any functions on the application, rememeber to turn on the bluetooth connection.
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 
 **1.Will the cast hurt me?**
 No.
