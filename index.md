@@ -1,37 +1,21 @@
 ## Welcome to Smart Cast Help and Support
 
-You can use the [editor on GitHub](https://github.com/lic20/lic20.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the Help and Support Page of the Smart Cast. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our Smart Cast is developed for improving the process of healing a broken bone, by controlling the healing process and by improving patient comfort.
 
-### Markdown
+### Frequently Asked Questions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Will the cast hurt me?
+No
 
-```markdown
-Syntax highlighted code block
+# Safety shut off just in case of emergency 
+Can I shower with it?
 
-# Header 1
-## Header 2
-### Header 3
+# Are there any food or nutrients that can help me heal quicker?
+Yes
+Avoid caffeine and smoking cigarettes, which can restrict blood flow
+Eating lower cholesterol and fat diet can improve blood circulation 
+Calcium is a good source of nutrition for bone regeneration 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lic20/lic20.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
