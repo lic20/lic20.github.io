@@ -1,8 +1,8 @@
 ## Welcome to Smart Cast Help and Support
 
-This is the Help and Support Page of the Smart Cast. 
+*This is the Help and Support Page of the Smart Cast.* 
 
-Our Smart Cast is developed for improving the process of healing a broken bone, by controlling the healing process and by improving patient comfort.
+*Our Smart Cast is developed for improving the process of healing a broken bone, by controlling the healing process and by improving patient comfort.*
 
 ## Frequently Asked Questions
 
