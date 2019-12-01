@@ -4,15 +4,16 @@ This is the Help and Support Page of the Smart Cast.
 
 Our Smart Cast is developed for improving the process of healing a broken bone, by controlling the healing process and by improving patient comfort.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-# Will the cast hurt me?
-No
+**1.Will the cast hurt me?**
+No.
+There is a safety shut off just in case of emergency. 
 
-# Safety shut off just in case of emergency 
-Can I shower with it?
+**Can I shower with it?**
+No, this cast is not water proof and you need a plastic protection over it when taking a shower.
 
-# Are there any food or nutrients that can help me heal quicker?
+**3.Are there any food or nutrients that can help me heal quicker?**
 Yes
 Avoid caffeine and smoking cigarettes, which can restrict blood flow
 Eating lower cholesterol and fat diet can improve blood circulation 
