@@ -1,4 +1,5 @@
 title: Smart Cast Help and Support
 theme: jekyll-theme-leap-day
 github:
+  is_project_page: false
   repository_url: https://github.com/open-dis
