@@ -33,7 +33,7 @@ Stage 3: Hard Callus and Remodeling Stage
 * At this stage, it is possible that a doctor might remove the cast completely. Please consult with your doctor before removing the cast. 
 
 
-#### Frequently Asked Questions
+### Frequently Asked Questions
 
 **1. Will the cast hurt me?**
 No.
